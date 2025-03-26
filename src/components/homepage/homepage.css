@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Bona+Nova+SC:ital,wght@0,400;0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Winky+Sans:ital,wght@0,300..900;1,300..900&display=swap');
+.backhome{
+    /* background-color: #62b2b1 !important; */
+    background: linear-gradient(180deg, #62b2b1 0%, #62b2b1 81%, #016b6b 81%);
+}
+
+.headoneb{
+    font-family: "Bona Nova SC", serif;
+    /* font-size: 3vw; */
+    font-size: clamp(16px, 4vw, 32px);
+    line-height: 1.8;
+    font-weight: 505;
+    color: white;
+}
+
+.head2{
+    font-family: "Winky Sans", sans-serif;
+    font-size: clamp(16px, 3vw, 32px);
+    line-height: 1.8;
+    font-weight: 500;
+    color: white;
+}
+
+
+
+@media (min-width:320px)  {
+    .imagesha{
+        width:500px
+    }
+}

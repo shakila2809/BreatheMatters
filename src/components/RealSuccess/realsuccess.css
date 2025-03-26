@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Bona+Nova+SC:ital,wght@0,400;0,700;1,400&display=swap');
+.successrange{
+    /* background-color: ; */
+    /* background: linear-gradient(to bottom, #e6f2f2, #008081, #e6f2f2); */
+    background: linear-gradient(to bottom, #e6f2f2 38%, #008081 38%, #008081 64%, #e6f2f2 64%);
+    height: 400px;
+}
+.hedfontwho{
+    font-family: "Bona Nova SC", serif;
+    font-size: clamp(16px, 4vw, 32px);
+    line-height: 1.8;
+    font-weight: 505;
+    color: #151818;
+    /* padding-top: 50px; */
+}
+.realsuccess{
+    border: 1px solid #008081;
+    /* padding: 10px; */
+    background-color: #ffffff;
+    border-radius: 20px;
+    width: 48%;
+    margin: 10px;
+    /* height: 300px; */
+}
+
+.successback{
+    background-color: #e6f2f2;
+    color: #008081;
+    border-radius: 20px !important;
+    /* margin-top: 2px; */
+    /* margin: 2px; */
+    padding: 30px;
+    
+}
+
+.profileimage{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-image: url('../../assets//profile1.jpg');
+    background-size: cover; /* Ensures the image covers the entire container */
+  background-position: center; /* Centers the image in the container */
+  background-repeat: no-repeat; 
+}
+
+.profileimage2{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-image: url('../../assets/profile2.jpeg');
+    background-size: cover; /* Ensures the image covers the entire container */
+  background-position: center; /* Centers the image in the container */
+  background-repeat: no-repeat;
+}
+
+@media screen and (max-width: 768px) {
+    .realsuccess {
+        width: 100%;/* This sets the width for mobile devices */
+    }
+    .successrange{
+        height: 100%;
+    }
+    
+}

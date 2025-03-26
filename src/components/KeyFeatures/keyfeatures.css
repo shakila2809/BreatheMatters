@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Bona+Nova+SC:ital,wght@0,400;0,700;1,400&display=swap');
+.headkey{
+    font-family: "Bona Nova SC", serif;
+    font-size: clamp(16px, 4vw, 32px);
+    line-height: 1.8;
+    font-weight: 505;
+    color: #151818;
+    /* padding-top: 50px; */
+}
+
+.keybox{
+    width: 25%;
+    padding: 10px;
+}
+
+@media screen and (max-width: 768px) {
+    .keybox {
+        width: 100%;/* This sets the width for mobile devices */
+    }
+   
+}

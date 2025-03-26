@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=Bona+Nova+SC:ital,wght@0,400;0,700;1,400&display=swap');
+.hedfontwho{
+    font-family: "Bona Nova SC", serif;
+    font-size: clamp(16px, 4vw, 32px);
+    line-height: 1.8;
+    font-weight: 505;
+    color: #151818;
+    /* padding-top: 50px; */
+}
+
+.wellsens{
+    background-image: url('../../assets/yogamat.jpg');
+    height: 350px;
+    width: 30%;
+    border-radius: 10px;
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    margin: 10px;
+    background-repeat: no-repeat;
+    background-size: cover; /* Optional: Ensures the image covers the entire container */
+    background-position: center;
+}
+
+.health{
+    background-image: url('../../assets/Healthcare.jpg');
+    height: 350px;
+    width: 30%;
+    border-radius: 10px;
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    margin: 10px;
+    background-repeat: no-repeat;
+    background-size: cover; /* Optional: Ensures the image covers the entire container */
+    background-position: center;
+}
+.athlets{
+    background-image: url('../../assets/athmarath.jpg');
+    height: 350px;
+    width: 30%;
+    border-radius: 10px;
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    margin: 10px;
+    background-repeat: no-repeat;
+    background-size: cover; /* Optional: Ensures the image covers the entire container */
+    background-position: center;
+}
+
+.healthcare{
+    background-image: url('../../assets/Healthcare.jpg');
+    height: 350px;
+    width: 45%;
+    border-radius: 10px;
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    margin: 10px;
+    background-repeat: no-repeat;
+    background-size: cover; /* Optional: Ensures the image covers the entire container */
+    background-position: center;
+}
+
+.Education{
+    background-image: url('../../assets/education.jpeg');
+    height: 350px;
+    width: 47%;
+    border-radius: 10px;
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    margin: 10px;
+    background-repeat: no-repeat;
+    background-size: cover; /* Optional: Ensures the image covers the entire container */
+    background-position: center;
+}
+
+.welboxcolor{
+    background-color: #008081;
+    opacity: 0.8;
+    border-radius: 10px;
+   margin-top: auto;
+   margin-bottom: 0;
+   color: white;
+   
+}
+
+
+@media screen and (max-width: 768px) {
+    .wellsens{
+       
+        
+        width: 100%;
+       
+    }
+    
+    .health{
+        
+        
+        width: 100%;
+       
+    }
+    .athlets{
+       
+       
+        width: 100%;
+        
+    }
+
+    .healthcare{
+        
+        
+        width: 100%;
+   
+    }
+    
+    .Education{
+        
+       
+        width: 100%;
+       
+    }
+}

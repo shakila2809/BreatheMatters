@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Bona+Nova+SC:ital,wght@0,400;0,700;1,400&display=swap');
+.backcover{
+    /* background-image: url("../../assets/backimage.jpeg"); */
+    background: linear-gradient(to right, #e6f2f2 30%, transparent ), 
+              url('../../assets/backimage.jpeg');
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover; /* Optional: Ensures the image covers the entire container */
+    background-position: center;
+
+}
+
+.hedfont{
+    font-family: "Bona Nova SC", serif;
+    font-size: clamp(16px, 4vw, 32px);
+    line-height: 1.8;
+    font-weight: 505;
+    color: #151818;
+    padding-top: 50px;
+}
+
+.howdiv{
+    background-color: #008081;
+    /* opacity: 0.5; */
+    color: white;
+    width: 60%;
+    border-radius: 10px;
+    padding: 10px;
+}
+.howdiv2{
+    background-color: #008081;
+    opacity: 0.8;
+    color: white;
+    width: 60%;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.boxsize{
+    width: 30%;
+}
+
+@media screen and (max-width: 768px) {
+    .boxsize {
+        width: 100%;/* This sets the width for mobile devices */
+    }
+    .backcover{
+        height: 100%;
+    }
+}

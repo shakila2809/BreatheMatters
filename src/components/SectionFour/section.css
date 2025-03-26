@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Bona+Nova+SC:ital,wght@0,400;0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Winky+Sans:ital,wght@0,300..900;1,300..900&display=swap');
+
+
+.headone{
+    font-family: "Bona Nova SC", serif;
+    /* font-size: 3vw; */
+    font-size: clamp(16px, 4vw, 32px);
+    line-height: 1.8;
+    font-weight: 505;
+    color: white;
+}
+
+.rowheight{
+    margin-bottom: 100px;
+}
+
+.hedfontpoer{
+    font-family: "Bona Nova SC", serif;
+    font-size: clamp(16px, 4vw, 32px);
+    line-height: 1.8;
+    font-weight: 505;
+    color: #0b7e7b;
+}
+
+.higlight{
+    font-weight: bold;
+    color: #0b7e7b;
+}
+.listbox{
+    background-color: #e6f2f2;
+    padding: 10px;
+    border-radius: 5px;
+    color: #147975;
+    font-weight: bold;
+}
+
+.sectionFive{
+    background-color: #e6f2f2;
+    padding-bottom: 50px;
+}
+
+.imagediv{
+    z-index: -1 !important;
+   
+    border-radius: 10px;
+    object-fit: contain; 
+
+}
+
+.imageoverdiv{
+    padding: 20px;
+    border-radius: 10px;
+    z-index: 100;
+    background-color:#e6f2f2 ;
+    margin-top: 250px;
+}
+
+.cardview{
+    border-radius: 10px;
+    background-image: url('../../assets/record1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover; /* Optional: Ensures the image covers the entire container */
+    background-position: center; 
+}

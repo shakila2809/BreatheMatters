@@ -1,0 +1,21 @@
+.sec2back{
+    /* background: linear-gradient(180deg, #e6f2f2 0%, #e6f2f2 78%, #016b6b 78%); */
+    background-color: #e6f2f2;
+    /* color: white; */
+}
+.yogaimage{
+    width: 500px;
+}
+
+.milleback{
+    background-color: #016b6b;
+margin-bottom: 0;
+margin-top: auto;
+}
+
+
+@media screen and (max-width: 768px) {
+    .yogaimage {
+        width: 300px; /* This sets the width for mobile devices */
+    }
+}
