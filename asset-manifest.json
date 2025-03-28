@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/BreatheMatters/static/css/main.7c0d1157.css",
+    "main.js": "/BreatheMatters/static/js/main.eced18db.js",
+    "static/js/453.19870e2e.chunk.js": "/BreatheMatters/static/js/453.19870e2e.chunk.js",
+    "static/media/yoga.svg": "/BreatheMatters/static/media/yoga.3e2469690a6257ebec1977b21f8d8664.svg",
+    "static/media/log.svg": "/BreatheMatters/static/media/log.08d2757b432f578e549b5156a50b010a.svg",
+    "static/media/athmarath.jpg": "/BreatheMatters/static/media/athmarath.cdc290725dc2c7fc2bc4.jpg",
+    "static/media/image1.png": "/BreatheMatters/static/media/image1.593a04c3a427002604a5.png",
+    "static/media/flowicon.png": "/BreatheMatters/static/media/flowicon.701866c37079416ee3f3.png",
+    "static/media/backimage.jpeg": "/BreatheMatters/static/media/backimage.50be194d7b3b920846e1.jpeg",
+    "static/media/spotsimage.jpeg": "/BreatheMatters/static/media/spotsimage.7fce91a5438e7fdc3616.jpeg",
+    "static/media/Healthcare.jpg": "/BreatheMatters/static/media/Healthcare.25b2e32a2cf006e926e6.jpg",
+    "static/media/yogamat.jpg": "/BreatheMatters/static/media/yogamat.bedfe6d77a9a720289c6.jpg",
+    "static/media/education.jpeg": "/BreatheMatters/static/media/education.89f70f74687f8b79e038.jpeg",
+    "static/media/record1.jpg": "/BreatheMatters/static/media/record1.9672a53fe55b815bc400.jpg",
+    "static/media/profile1.jpg": "/BreatheMatters/static/media/profile1.fb7568cd38df56db575f.jpg",
+    "static/media/profile2.jpeg": "/BreatheMatters/static/media/profile2.0050a7f601e849793326.jpeg",
+    "static/media/icon 3.png": "/BreatheMatters/static/media/icon 3.a553156e0c9316558ecd.png",
+    "static/media/icon1.png": "/BreatheMatters/static/media/icon1.f690dc6d4c06efc0ef48.png",
+    "static/media/air.png": "/BreatheMatters/static/media/air.1849c2ab031f8181e33c.png",
+    "static/media/conspire logo_transparent.avif": "/BreatheMatters/static/media/conspire logo_transparent.93b32dafffebac7c1fa5.avif",
+    "index.html": "/BreatheMatters/index.html",
+    "main.7c0d1157.css.map": "/BreatheMatters/static/css/main.7c0d1157.css.map",
+    "main.eced18db.js.map": "/BreatheMatters/static/js/main.eced18db.js.map",
+    "453.19870e2e.chunk.js.map": "/BreatheMatters/static/js/453.19870e2e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c0d1157.css",
+    "static/js/main.eced18db.js"
+  ]
+}
